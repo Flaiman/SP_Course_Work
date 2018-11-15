@@ -10,6 +10,9 @@ class Calculator
 =======
         int Add (int, int);
         int Mul (double, double);
+<<<<<<< HEAD
+>>>>>>> e0ea21b (add a multiplication operation)
+=======
 >>>>>>> e0ea21b (add a multiplication operation)
 };
 
